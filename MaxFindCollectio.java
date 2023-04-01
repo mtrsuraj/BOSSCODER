@@ -18,10 +18,10 @@ public class MaxFindCollectio {
         arr.add(432);
         arr.add(2);
         arr.add(332);
-        // System.out.println(arr.removeAll(arr));
+        System.out.println(arr.removeAll(arr));
 
-        // System.out.println(arr.isEmpty());
-        // System.out.println("Higest number: " + arr.last());
+        System.out.println(arr.isEmpty());
+        System.out.println("Higest number: " + arr.last());
         HashSet<Integer> hashSet = new HashSet<Integer>();
         hashSet.add(12);
         hashSet.add(45);
