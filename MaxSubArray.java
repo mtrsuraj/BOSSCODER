@@ -19,7 +19,6 @@ public class MaxSubArray {
             if (setMinValue < 0) {
                 setMinValue = 0;
                 s = i + 1;
-
             }
         }
         // for (int i : subarray) {
